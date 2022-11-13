@@ -47,7 +47,7 @@ INSERT INTO `mahasiswa` (`nim`, `nama`, `program_studi`) VALUES
 ('118140015', 'Defangga Aby Vonega', 'Teknik Informatika'),
 ('120210224', 'Nabil Juadi', 'Teknik Sipil'),
 ('120210221', 'Eka Aji Saputro', 'Teknik Sipil'),
-('121250048', 'Puji Samosir	', 'Teknik Lingkungan'),
+('121250048', 'Puji Samosir', 'Teknik Lingkungan'),
 ('121280006', 'Jabir Shoji Arhab', 'Teknik Kimia');
 
 --
